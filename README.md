@@ -37,9 +37,12 @@ follow above you just clik the ""run all"" button ,will be fine!
 | Epoch | Train Loss | Train Acc | Train Mean IU | Valid Loss | Valid Acc | Valid Mean IU |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 108 | 0.07536 | 0.97046 | 0.83511 | 0.46642 | 0.89280 | 0.55141 |
+## Show 12 Result of testset
+![](https://github.com/Aivision-tang29/Simple_fcn/blob/master/Result.png)
+
 
 i havn't much time train more params for the model
-##### Device
+## training Device (single)
 **GTX 1080Ti**
 
 ## To do:
